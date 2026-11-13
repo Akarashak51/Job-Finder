@@ -6,7 +6,7 @@
 
 The product combines a deterministic job-search pipeline with an optional Gemini reasoning layer. A candidate can search for a role at one company, or turn on **Job Watcher** to scan the configured company directory in parallel. Gemini improves the quality of the shortlist, explains why a result is relevant, summarizes a scan cycle, and can draft a short outreach note for the strongest matches.
 
-Razorpay is included as a pre-configured company in the directory, alongside hundreds of other companies. The app is independent of Razorpay and uses publicly available careers pages and job-board endpoints.
+Razorpay is included as a pre-configured company in the directory, alongside 2300+ of other companies. The app is independent of Razorpay and uses publicly available careers pages and job-board endpoints.
 
 ## The Problem
 
